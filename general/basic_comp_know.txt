@@ -1,0 +1,3 @@
+To delete a single autosuggested URL, start typing the address as you normally would—Google.com in my example. Then, when the unwanted autocomplete suggestion appears, use your keyboard's arrow keys to highlight the suggestion in the drop-down menu below the address bar.
+
+Finally, press Shift+Delete and poof! The suggestion disappears.
